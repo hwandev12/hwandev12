@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **serverdjangon1@gmail.com**
 
-- 📄 Know about my experiences [https://www.kickresume.com/cv/N0R7X/](https://www.kickresume.com/cv/N0R7X/)
+- 📄 Know about my experiences [Khusanboy Akhmedov Resume.pdf](https://github.com/hwandev12/hwandev12/files/8545963/Khusanboy.Akhmedov.Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
