@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Husan</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on [shopping admin CRM](https://github.com/hwandev12/bossono-phone-admin)
+- 🔭 I’m currently working on [book store](https://book-webite-read.herokuapp.com/#)
 
-- 👯 I’m looking to collaborate on [shopping and user CRM](https://github.com/hwandev12/bossono-phone-admin)
+- 👯 I’m looking to collaborate on [book store](https://github.com/hwandev12/book-search-django-website)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hwandev12](https://github.com/hwandev12)
 
