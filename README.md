@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hwandev12](https://github.com/hwandev12)
 
-- 💬 Ask me about **Python, Django, Flask**
+- 💬 Ask me about **Python, Django, GUI**
 
 - 📫 How to reach me **serverdjangon1@gmail.com**
 
