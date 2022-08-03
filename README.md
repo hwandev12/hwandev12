@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Django, GUI**
 
-- 📫 How to reach me **serverdjangon1@gmail.com**
+- 📫 How to reach me **mr.khusanakhmedov@gmail.com**
 
 - 📄 Know about my experiences [Khusanboy Akhmedov Resume.pdf](https://github.com/hwandev12/hwandev12/files/8545963/Khusanboy.Akhmedov.Resume.pdf)
 
